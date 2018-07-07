@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "monkey",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -34,7 +34,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 8,
     "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/img-3129-128x96.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
